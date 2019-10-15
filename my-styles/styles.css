@@ -1,0 +1,8 @@
+h1 {
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+tr:hover {
+    text-decoration: underline;
+}
